@@ -1,7 +1,7 @@
 # My blog
 
 ## js知识梳理深入系列
-1. [JavaScirpt深入之从原型和原型链](https://github.com/icyfe/blog/issues/3)
+1. [JavaScirpt深入之原型和原型链](https://github.com/icyfe/blog/issues/3)
 2. [JavaScirpt深入之执行栈](https://github.com/icyfe/blog/issues/4)
 3. [JavaScirpt深入之this指向](https://github.com/icyfe/blog/issues/5)
 4. [JavaScirpt深入之变量对象](https://github.com/icyfe/blog/issues/6)
