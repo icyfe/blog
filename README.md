@@ -5,6 +5,6 @@
 1. [JavaScirpt深入之执行栈](https://github.com/icyfe/blog/issues/4)
 ## ES6系列
 1. [手写符合PromiseA+规范的Promise](https://github.com/icyfe/blog/issues/2)
-## 乱写系列：
+## 随笔系列：
 1. [原生实现轮播图](https://github.com/icyfe/blog/issues/1)
 ## 造轮子系列：
