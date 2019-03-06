@@ -11,3 +11,4 @@
 1. [原生实现轮播图](https://github.com/icyfe/blog/issues/1)
 ## 造轮子系列：
 ## 经典面试题系列：
+4. [[1,2,3].map(parseInt)结果为什么是1,NaN,NaN](https://github.com/icyfe/blog/issues/7)
