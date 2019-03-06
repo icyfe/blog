@@ -1,5 +1,5 @@
 # My blog
-
+一直在不断的学习，但是发现知识点学的很多知识点很零散，开始试着写博客把知识归纳整合一下，也算是学习的一个记录
 ## js知识梳理深入系列
 1. [JavaScirpt深入之原型和原型链](https://github.com/icyfe/blog/issues/3)
 2. [JavaScirpt深入之执行栈](https://github.com/icyfe/blog/issues/4)
@@ -10,3 +10,4 @@
 ## 随笔系列：
 1. [原生实现轮播图](https://github.com/icyfe/blog/issues/1)
 ## 造轮子系列：
+## 经典面试题系列：
