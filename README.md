@@ -5,6 +5,7 @@
 2. [JavaScirpt深入之执行栈](https://github.com/icyfe/blog/issues/4)
 3. [JavaScirpt深入之this指向](https://github.com/icyfe/blog/issues/5)
 4. [JavaScirpt深入之变量对象](https://github.com/icyfe/blog/issues/6)
+5. [JavaScirpt深入之作用域与作用域链](https://github.com/icyfe/blog/issues/8)
 ## ES6系列
 1. [手写符合PromiseA+规范的Promise](https://github.com/icyfe/blog/issues/2)
 ## 随笔系列：
