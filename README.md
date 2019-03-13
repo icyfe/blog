@@ -13,3 +13,4 @@
 ## 造轮子系列：
 ## 面试题系列：
 1. [[1,2,3].map(parseInt)结果为什么是1,NaN,NaN](https://github.com/icyfe/blog/issues/7)
+2. [数组扁平化](https://github.com/icyfe/blog/issues/8)
