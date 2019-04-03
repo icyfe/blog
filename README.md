@@ -16,3 +16,4 @@
 2. [数组扁平化](https://github.com/icyfe/blog/issues/8)
 3. [当列表有10000条数据如何优化渲染--简单实现](https://github.com/icyfe/blog/issues/9)
 4. [函数科里化实现go()()()('l');//返回goool](https://github.com/icyfe/blog/issues/11)
+5. [实现一个简单的双向绑定](https://github.com/icyfe/blog/issues/12)
