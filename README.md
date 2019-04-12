@@ -10,6 +10,7 @@
 1. [手写符合PromiseA+规范的Promise](https://github.com/icyfe/blog/issues/2)
 ## 随笔系列：
 1. [原生实现轮播图](https://github.com/icyfe/blog/issues/1)
+2. [CSS权重问题知识梳理](https://github.com/icyfe/blog/issues/13)
 ## 造轮子系列：
 ## 面试题系列：
 1. [[1,2,3].map(parseInt)结果为什么是1,NaN,NaN](https://github.com/icyfe/blog/issues/7)
